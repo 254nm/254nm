@@ -2,7 +2,6 @@
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
   <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c">
-  <img alt="x86 Assembly" src="https://img.shields.io/badge/-x86 assembly-black?style=flat-square&logo=assembly">
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js">
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
