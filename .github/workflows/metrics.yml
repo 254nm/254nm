@@ -8,7 +8,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'alexsobiek/alexsobiek'"
+    if: "github.repository == '254nm/254nm'"
     steps:  
       - name: "Generate Metrics SVG"
         uses: lowlighter/metrics@latest
